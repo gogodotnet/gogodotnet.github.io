@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hagar Mohamed</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Hagar Mohamed</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Apr 2026 18:53:06 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are QA &amp; Test Engineers Safe in the Age of AI?</title>
+      <link>http://localhost:1313/posts/27april2026/</link>
+      <pubDate>Mon, 27 Apr 2026 18:53:06 +0200</pubDate>
+      <guid>http://localhost:1313/posts/27april2026/</guid>
+      <description>&lt;p&gt;Some Honest Thoughts from ConfX in Berlin.&lt;/p&gt;&#xA;&lt;p&gt;Last week I attended ConfX in Berlin — a fantastic event, full of good talks, great speakers, and genuinely talented people in the testing space.&#xA;But let&amp;rsquo;s talk about the elephants in the room.&#xA;Amid all the enthusiasm, one question kept hovering, unasked or unanswered: Do we — QA and test engineers — still have a future?&#xA;Here&amp;rsquo;s my honest take. The answer isn&amp;rsquo;t one-size-fits-all. It depends heavily on where you currently sit in the testing landscape.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

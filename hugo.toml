@@ -1,0 +1,57 @@
+baseURL = "https://hagar.work/"
+title = "Hagar Mohamed"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+[pagination]
+  pagerSize = 10
+
+[markup.highlight]
+  style = "github-dark"
+
+[params]
+  author = "Hagar Mohamed"
+  info = "ex-AWS . Engineering Lead . Quality Software · Personal Finance"
+  description = "Engineering lead writing about quality engineering, software testing in the AI era, engineering leadership, and personal finance."
+  keywords = "software testing, quality engineering, QA, engineering leadership, personal finance, financial literacy, AI"
+
+  avatarURL = "images/avatar.jpg"   # place your photo at /static/images/avatar.jpg
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2026                      # year you launched
+
+  colorScheme = "auto"              # respects system dark/light mode
+  hideColorSchemeToggle = false
+
+  enableTwemoji = true
+
+# Social links — hugo-coder uses [[params.social]] blocks with FA icons
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 1
+  url = "https://linkedin.com/in/hagarmohamed"
+
+# Navigation menu
+[[menus.main]]
+  name = "Blog"
+  weight = 1
+  url = "posts/"
+
+[[menus.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+  author = "authors"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
