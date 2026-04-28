@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are QA &amp; Test Engineers Safe in the Age of AI?</title>
-      <link>http://localhost:1313/posts/27april2026/</link>
+      <link>http://localhost:1313/posts/qa-engineers-future-27-4-26/</link>
       <pubDate>Mon, 27 Apr 2026 18:53:06 +0200</pubDate>
-      <guid>http://localhost:1313/posts/27april2026/</guid>
-      <description>&lt;p&gt;Some Honest Thoughts from ConfX in Berlin.&lt;/p&gt;&#xA;&lt;p&gt;Last week I attended ConfX in Berlin — a fantastic event, full of good talks, great speakers, and genuinely talented people in the testing space.&#xA;But let&amp;rsquo;s talk about the elephants in the room.&#xA;Amid all the enthusiasm, one question kept hovering, unasked or unanswered: Do we — QA and test engineers — still have a future?&#xA;Here&amp;rsquo;s my honest take. The answer isn&amp;rsquo;t one-size-fits-all. It depends heavily on where you currently sit in the testing landscape.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/qa-engineers-future-27-4-26/</guid>
+      <description>&lt;h1 id=&#34;are-qa--test-engineers-safe-in-the-age-of-ai-some-honest-thoughts-from-qonfx-berlin&#34;&gt;&#xA;  Are QA &amp;amp; Test Engineers Safe in the Age of AI? Some Honest Thoughts from QonfX Berlin&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#are-qa--test-engineers-safe-in-the-age-of-ai-some-honest-thoughts-from-qonfx-berlin&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Last week I attended &lt;a href=&#34;https://www.thetesttribe.com/qonfx/berlin/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QonfX in Berlin&lt;/a&gt; — a fantastic event, full of good talks, great speakers, and genuinely talented people in the testing space.&lt;/p&gt;&#xA;&lt;p&gt;But let&amp;rsquo;s talk about the elephants in the room.&lt;/p&gt;&#xA;&lt;p&gt;Amid all the enthusiasm, one question kept hovering, unasked or unanswered: &lt;strong&gt;Do we — QA and test engineers — still have a future?&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
